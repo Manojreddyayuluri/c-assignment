@@ -1,3 +1,4 @@
+// floyd,s triangle
 #include <stdio.h>  
 #include <conio.h>  
 int main()  
